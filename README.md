@@ -1,4 +1,4 @@
-# InfoCenter
+# Step 2. InfoCenter
 
 extends을 통한 템플릿 상속으로 중복 코드 최소화
 static file
